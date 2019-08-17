@@ -1,5 +1,5 @@
 {
-  "name": "lil-test",
+  "name": "lil-test-fw",
   "version": "1.0.0",
   "description": "Occasionally I like to make my own testing framework",
   "source": "src/lil-test.js",
