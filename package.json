@@ -1,0 +1,27 @@
+{
+  "name": "lil-test",
+  "version": "1.0.0",
+  "description": "Occasionally I like to make my own testing framework",
+  "source": "src/lil-test.js",
+  "main": "dist/lil-test.js",
+  "module": "dist/lil-test.mjs",
+  "unpkg": "dist/lil-test.umd.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "author": "Ryan Florence",
+  "license": "ISC",
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtorr/lil-test"
+  },
+  "homepage": "https://twitter.com/ryanflorence/status/1162792430422200320",
+  "files": [
+    "src",
+    "dist"
+  ]
+}
