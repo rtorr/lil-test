@@ -1,7 +1,7 @@
 {
   "name": "lil-test-fw",
-  "version": "1.0.0",
-  "description": "Occasionally I like to make my own testing framework",
+  "version": "1.0.1",
+  "description": "Occasionally, Ryan Florence likes to make my own testing framework",
   "source": "src/lil-test.js",
   "main": "dist/lil-test.js",
   "module": "dist/lil-test.mjs",
